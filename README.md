@@ -1,5 +1,8 @@
 # Open Source Energy System Modeling 2026
+Copyright 2026 Joan Domingo
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+This project is released under an MIT LICENSE
+
 
 Repository from my Erasmus course *Open Source Energy System Modeling* at TU Wien.
 
