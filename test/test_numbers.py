@@ -1,3 +1,4 @@
+import pytest
 from src.numbers import average, median, normalize
 
 # Test cases for numbers.py
