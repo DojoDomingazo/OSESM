@@ -6,7 +6,7 @@ from src.numbers import average, median, normalize
 # Test for wrong input types
 
 def test_average_none():
-    with pytest.raises(TypeError):
+    with pytest.raises(ValueError):
         average(None)
 
 def test_average_string():
@@ -22,11 +22,11 @@ def test_average_with_none_inside():
         average([1, None, 3])
 
 def test_median_none():
-    with pytest.raises(TypeError):
+    with pytest.raises(ValueError):
         median(None)
 
 def test_normalize_none():
-    with pytest.raises(TypeError):
+    with pytest.raises(ValueError):
         normalize(None)
 
 def test_normalize_mixed_types():
