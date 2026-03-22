@@ -1,4 +1,4 @@
-# Open Source Energy System Modeling 2026
+# Open Source Energy System Modeling 2026S
 Copyright 2026 Joan Domingo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
