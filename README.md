@@ -1,4 +1,4 @@
-# OSESM
+# Open Source Energy System Modeling 2026
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Repository from my Erasmus of the course 'Open Source Energy System Modeling' at TU Wien.
